@@ -1,4 +1,5 @@
 CREATE DATABASE todo;
+USE todo;
 
 CREATE TABLE `users` (
   `username` varchar(20) NOT NULL,
